@@ -1,0 +1,20 @@
+.todo {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 4rem;
+    width: 60%;
+    height: 2.5rem;
+    background-color: rgb(98, 75, 116);
+    text-align: center;
+    margin: 0rem 5rem;
+    color:aliceblue;
+    font-size: 1.1rem;
+    padding-top: 0.5rem;
+
+    .icons {
+        display: flex;
+        gap: 0.4rem;
+        padding-left: 0.3rem;
+    }
+}

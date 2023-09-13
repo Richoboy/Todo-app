@@ -1,0 +1,12 @@
+.todoWrapper {
+    h1 {
+        color: white;
+        padding-top: 2rem;
+    }
+    .todoList {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
